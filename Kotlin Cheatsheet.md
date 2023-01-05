@@ -1,10 +1,11 @@
 #Intro
 
-Kotlin is a new programming language for the JVM. It produces Java bytecode, supports Android and generates JavaScript. The latest version of the language is [Kotlin M5.3]("http://blog.jetbrains.com/kotlin/2013/06/kotlin-m5-3-idea-13-delegated-properties-and-more/")
+Kotlin is a new programming language for the JVM. It produces Java bytecode, supports Android and generates JavaScript.
 
 Kotlin project website is at [kotlin.jetbrains.org](http://kotlin.jetbrains.org).
 
 All the codes here can be copied and run on [Kotlin online editor](http://kotlin-demo.jetbrains.com/).
+or use (https://developer.android.com/training/kotlinplayground)
 
 Let's get started.
 
